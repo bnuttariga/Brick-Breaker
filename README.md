@@ -1,5 +1,5 @@
 ## Brick-Breaker
-### ( CN341 OBJECT-ORIENTED ANALYSIS AND DESIGN )
+### CN341 OBJECT-ORIENTED ANALYSIS AND DESIGN
 #### สมาชิก
 1. นางสาวนภัสสร พิสุทธิ์ธาราชัย 6010613472
 2. นางสาวณัฐฑริกา บุญมี 6010613484
