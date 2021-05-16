@@ -1,6 +1,4 @@
-## Brick-Breaker
-### CN341 OBJECT-ORIENTED ANALYSIS AND DESIGN
-#### สมาชิก
-1. นางสาวนภัสสร พิสุทธิ์ธาราชัย 6010613472
-2. นางสาวณัฐฑริกา บุญมี 6010613484
-3. นางสาวกณวรรธน์ เหลืองอรุณโรจน์ 6010613583
+Breakout
+========
+
+A simple Brick Breaker game written in Java. Run it as a NetBeans project, or use the following shell commands in the source directory: javac *.java && java Game
