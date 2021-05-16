@@ -1,4 +1,5 @@
-Breakout
-========
-
-A simple Brick Breaker game written in Java. Run it as a NetBeans project, or use the following shell commands in the source directory: javac *.java && java Game
+# Brick-Breaker
+### สมาชิก
+1. นางสาวนภัสสร พิสุทธิ์ธาราชัย 6010613462
+2. นางสาวณัฐฑริกา บุญมี 6010613484
+3. นางสาวกณวรรธน์ เหลืองอรุณโรจน์ 6010613583
